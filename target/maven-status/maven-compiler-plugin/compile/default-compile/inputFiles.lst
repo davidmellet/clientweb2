@@ -1,3 +1,4 @@
-/home/m1gil/melledav/workspace2/springrestexample/src/main/java/com/howtodoinjava/demo/controller/EmployeeRESTController.java
-/home/m1gil/melledav/workspace2/springrestexample/src/main/java/com/howtodoinjava/demo/model/EmployeeListVO.java
-/home/m1gil/melledav/workspace2/springrestexample/src/main/java/com/howtodoinjava/demo/model/EmployeeVO.java
+/home/m1gil/capettho/workspace/clientweb2/src/main/java/com/howtodoinjava/demo/controller/EmployeeRESTController.java
+/home/m1gil/capettho/workspace/clientweb2/src/main/java/com/howtodoinjava/demo/controller/Client.java
+/home/m1gil/capettho/workspace/clientweb2/src/main/java/com/howtodoinjava/demo/model/EmployeeVO.java
+/home/m1gil/capettho/workspace/clientweb2/src/main/java/com/howtodoinjava/demo/model/EmployeeListVO.java
